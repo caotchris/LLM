@@ -1,4 +1,4 @@
-# `llm` - Large Language Models for Everyone, in Rust
+# `llm` - Large Language Models for Everyone, in Rust - 1
 
 `llm` is an ecosystem of Rust libraries for working with large language models -
 it's built on top of the fast, efficient [GGML](./crates/ggml) library for
